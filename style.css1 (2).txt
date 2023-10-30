@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to bottom right, pink, black);
+}
+#color{
+    background-color:#f26b8a;
+}
+#color1{
+    background-color:#fe7f9c;
+    
+}
+a{
+    text-decoration:none;
+}
+li{
+    color:black;
+}
